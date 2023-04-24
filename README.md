@@ -60,7 +60,7 @@ You will be prompted to enter the target email address, the attack text, and the
 emails to the target address.
 
 
-![Gmail](https://github.com/https:/github.com/Fr1zx/SpamGmailFr1zx/blob/main/gmail.jpeg)
+![Gmail](https:/github.com/Fr1zx/SpamGmailFr1zx/blob/main/gmail.jpeg)
 
 
 
