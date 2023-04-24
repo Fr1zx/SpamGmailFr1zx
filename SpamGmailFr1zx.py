@@ -268,7 +268,7 @@ OOO0OOO00O000OOO0 ="""
 
 █▀ █▀█ ▄▀█ █▀▄▀█   █▀▀ █▀█ █▀█ █▀▄▀█   █▀▀ █▀█ ▄█ ▀█ ▀▄▀
 ▄█ █▀▀ █▀█ █░▀░█   █▀░ █▀▄ █▄█ █░▀░█   █▀░ █▀▄ ░█ █▄ █░█
-                        My tiktok: fr1zx_bs
+                        My tiktok: @fr1zxxpython
                         My telegram: @Fr1zxX
                         My github: https://github.com/Fr1zx
 """
