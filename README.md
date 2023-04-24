@@ -2,7 +2,7 @@
 
 SpamGmailFr1zx Tool
 This is a simple Python tool that allows you to send spam emails to a Gmail address.
-
+![Termux](https://github.com//Fr1zx/SpamGmailFr1zx/blob/main/termux.jpeg)
 
 
 Installation
