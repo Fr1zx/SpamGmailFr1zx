@@ -75,7 +75,13 @@ This will allow you to send all emails at once and bypass spam protection.
 
 Note: Use this tool responsibly and at your own risk. The author takes no responsibility for your actions.
 
-Contact
+Contact:
+
+
+
+
 TikTok: @fr1zx_bs
+
 Telegram: @Fr1zxX
+
 GitHub: https://github.com/Fr1zx
