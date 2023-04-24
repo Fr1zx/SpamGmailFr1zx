@@ -30,14 +30,17 @@ python -m ensurepip --default-pip
 
 pip install colorama
 
+git clone https://github.com/Fr1zx/SpamGmailFr1zx.git
 
+cd SpamGmailFr1zx
+
+python SpamGmailFr1zx.py
 
 For Linux, you can use the following commands:
 
 
 
 git clone https://github.com/Fr1zx/SpamGmailFr1zx.git
-
 
 cd SpamGmailFr1zx
 
